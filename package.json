@@ -1,5 +1,5 @@
 {
-  "name": "vplist",
+  "name": "vplist-node",
   "version": "1.0.0",
   "description": "Video list parser",
   "main": "./dist/index.cjs",

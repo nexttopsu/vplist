@@ -15,15 +15,15 @@ TypeScript 编写的 [AList](https://github.com/alist-org/alist) API 客户端�
 ## 安装
 
 ```bash
-npm install vplist
+npm install vplist-node
 # 或
-pnpm add vplist
+pnpm add vplist-node
 ```
 
 ## 快速开始
 
 ```ts
-import { AListClient } from 'vplist'
+import { AListClient } from 'vplist-node'
 
 const alist = new AListClient({
   baseURL: 'http://localhost:5244',
