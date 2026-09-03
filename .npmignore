@@ -1,0 +1,18 @@
+# 源码与配置（发布时只需 dist 产物）
+src/
+example.ts
+tsconfig.json
+tsup.config.ts
+
+# 测试与临时输出
+测试用的视频.mp4
+temps/
+outputs/
+
+# 开发依赖与版本控制
+node_modules/
+.git/
+.gitignore
+
+# 仅本地构建
+*.log
